@@ -4,4 +4,4 @@
 
 Aplicado por Prof. Adilson Vahldick - Universidade do Estado de Santa Catarina - UDESC
 
-![Guia rápido]()
+![Guia rápido](https://github.com/camimassaneiro/Passo-a-passo-para-aplicar-Padr-o-de-Projeto-MVC/blob/main/MVC-passo-a-passo-1.png)
